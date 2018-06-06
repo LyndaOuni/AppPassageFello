@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
+import trajetApp from './src/components/Index';
 
-AppRegistry.registerComponent('AppPassage', () => App);
+AppRegistry.registerComponent('AppPassage', () => trajetApp);
