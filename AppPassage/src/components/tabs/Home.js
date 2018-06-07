@@ -6,11 +6,9 @@ import {
   Image
 } from 'react-native';
 
-import Icon from 'react-native-vector-icons/dist/FontAwesome';
-
 export default class Home extends Component {
   static navigationOptions = {
-     tabBarIcon: () => (<Image source={require('../icons/home_icon.imageset/home_icon.png')}/>)
+     tabBarIcon: () => (<Image source={require('./../../icons/home_icon.imageset/home_icon.png')}/>)
   };
   render() {
     return (
