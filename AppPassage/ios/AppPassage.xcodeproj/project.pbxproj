@@ -52,6 +52,7 @@
 		5988E8580BED432CABDC5A00 /* libRNVectorIcons.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4356CF6C94B847DC981F5EBF /* libRNVectorIcons.a */; };
 		5CBD439AA1B04A7A81AC0A70 /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4F00DB84D2DB44E693E0E9E6 /* Feather.ttf */; };
 		71658703781E46DBB64F5BD7 /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB4DE50EB176499AA4165F3E /* MaterialCommunityIcons.ttf */; };
+		9B13A903D3AE459D9FB00128 /* Avenir.ttc in Resources */ = {isa = PBXBuildFile; fileRef = D1CFCA4C5CA54E03B8C8D6F7 /* Avenir.ttc */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -373,6 +374,7 @@
 		4356CF6C94B847DC981F5EBF /* libRNVectorIcons.a */ = {isa = PBXFileReference; name = "libRNVectorIcons.a"; path = "libRNVectorIcons.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
 		4F00DB84D2DB44E693E0E9E6 /* Feather.ttf */ = {isa = PBXFileReference; name = "Feather.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		FB4DE50EB176499AA4165F3E /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; name = "MaterialCommunityIcons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D1CFCA4C5CA54E03B8C8D6F7 /* Avenir.ttc */ = {isa = PBXFileReference; name = "Avenir.ttc"; path = "../src/font/Avenir.ttc"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -654,6 +656,7 @@
 				8D209B4CCDBC4FCFA7C60AFD /* Zocial.ttf */,
 				4F00DB84D2DB44E693E0E9E6 /* Feather.ttf */,
 				FB4DE50EB176499AA4165F3E /* MaterialCommunityIcons.ttf */,
+				D1CFCA4C5CA54E03B8C8D6F7 /* Avenir.ttc */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -1119,6 +1122,7 @@
 				164491090C1C4E43B7BC3A49 /* Zocial.ttf in Resources */,
 				5CBD439AA1B04A7A81AC0A70 /* Feather.ttf in Resources */,
 				71658703781E46DBB64F5BD7 /* MaterialCommunityIcons.ttf in Resources */,
+				9B13A903D3AE459D9FB00128 /* Avenir.ttc in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
